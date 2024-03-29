@@ -64,10 +64,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ### Spam protection
 - reCAPTCHA
 
-## Customise your online store
-### No theme installed
+## Customize your online store
+### Themes
 - Install default theme
-
+#### Customize
+- Announcement Bar
+- Header
 ## Set your shipping rates
 
 ## Setup Shopify Payments
